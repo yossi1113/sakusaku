@@ -142,9 +142,9 @@ async def ping(ctx):
     raw_ping = bot4.latency
     ping_ms = round(raw_ping * 1000)
     await ctx.reply(f'Pong!:ping_pong:\nBotのPing値は{ping_ms}msです。\n現在は{nausaba}サーバーで動作しています。\n起動時刻は{sttime}です!\nPythonのバージョン: {sys.version}\n', mention_author=False)
-    await bot4.change_presence(
-        activity=discord.Game(f'{len(bot4.guilds)}サーバーで稼働中、、、起動時刻は{sttime}です!')
-    )
+    # await bot4.change_presence(
+    #     activity=discord.Game(f'{len(bot4.guilds)}サーバーで稼働中、、、起動時刻は{sttime}です!')
+    # )
 #--------------------------------------------------
 @bot4.command(name='time')
 async def current_time(ctx):
