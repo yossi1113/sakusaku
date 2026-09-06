@@ -177,5 +177,7 @@ pyrightconfig.json
 testsakusaku1/
 wlcheck.txt
 deathcode.txt
+SakusakuMain/.env
+!Example.env
 
 # End of https://www.toptal.com/developers/gitignore/api/python

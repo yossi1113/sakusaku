@@ -1,25 +1,10 @@
-﻿
-# sakusaku
-<p>yossi-サクサクのオープンソース版です。</p>
-<p>昔から継ぎ足し方式で開発してるからコードがほんとに意味わかんない。</p>
-[実際にホストしてます。](https://sakusaku.static.jp)
-<hr>
-<h3>機能一覧</h3>
-<p>いろいろ！！！</p>
-<p>ほかいろいろ！！！</p>
-<p>そのたいろいろ！！！！</p>
-<hr>
-<h3>ホスト方法</h3>
-<p>1. このリポジトリをクローンする</p>
-<p>2. envを追加して編集する</p>
-<p>3. コードの気に入らないとこを直すかissueを作る</p>
-<p>4. コードを実行する</p>
-<p>5. 完成！</p>
-<h6>詳しく説明するのがめんどくさかったのでこれです、すみません。</h6>
+<div align="center">
+  <p>オープンソース版</p>
+  <img src="https://cdn.discordapp.com/banners/1447122657555251375/90b15e1fedd4ac538c938e12df678226.png?size=480">
+  <h1>Sakusaku<h1>
+</div>
 
-<hr>
-<h3>.envのテンプレート</h3>
-<p>リポジトリ内にあるsample.envをコピーして.envに名前変えてつかってね！</p>
-<hr>
-<h3>あとがき</h3>
-<p>issueやpull request大歓迎です！皆さんの手でサクサクをすごいbotにしましょう！</p>
+<div align="center">
+  <p>昔からの注ぎ足し方式で開発を進めています</p>
+  <a href="https://sakusaku.static.jp" target="_blank">実際にホストしています！</a>
+</div>
